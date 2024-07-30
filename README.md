@@ -8,10 +8,12 @@ Simple Note Taker is a web application that allows users to write, save, and del
 - [Usage](#usage)
 - [Deployment](#deployment)
 - [Built With](#built-with)
+- [Mock-up](#mock-up)
 - [Contributing](#contributing)
 - [License](#license)
-- [Questions](#Questions)
-- [Acknowledgement](#Acknowledgement)
+- [Questions](#questions)
+- [Acknowledgement](#acknowledgement)
+
 
 ## Installation
 
@@ -81,13 +83,16 @@ To deploy the application to Render, follow these steps:
 - Node.js - JavaScript runtime environment
 - Express.js - Web framework for Node.js
 
+## Mock-up
+![Simple Note Taker Mock-up](/NOTES.gif)
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Replace `https://github.com/Robert-Ulloa/simple-note-taker` with the actual URL of your GitHub repository.
+`https://github.com/Robert-Ulloa/simple-note-taker`
 
 This `README.md` provides clear instructions on setting up, using, and deploying the Simple Note Taker application. It also includes sections for contributing and licensing, making it a comprehensive guide for users and developers.
 
